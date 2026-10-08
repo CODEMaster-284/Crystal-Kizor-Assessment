@@ -1,0 +1,17 @@
+:root {
+  --obsidian: #151714;
+  --ivory: #f0ede5;
+  --sage: #a9af96;
+  --clay: #b66d50;
+  --sand: #c8b999;
+  --surface-dark: var(--obsidian);
+  --surface-light: var(--ivory);
+  --text-on-dark: var(--ivory);
+  --text-on-light: var(--obsidian);
+  --accent: #d69b7a;
+  --rule: rgba(240, 237, 229, 0.22);
+  --display: "Cormorant Garamond", Georgia, serif;
+  --body: "Manrope", sans-serif;
+  --gutter: clamp(22px, 5vw, 88px);
+  --header-height: 86px;
+}

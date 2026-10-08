@@ -1,0 +1,9 @@
+node_modules/
+dist/
+qa/
+.env.local
+.npm-cache/
+.browser-cache/
+.tools/
+.python-cache/
+*.tsbuildinfo

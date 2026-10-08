@@ -1,0 +1,146 @@
+.header {
+  height: var(--header-height);
+  padding: 0 var(--gutter);
+  position: fixed;
+  z-index: 50;
+  left: 0;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--ivory);
+  border-bottom: 1px solid var(--rule);
+  transition: background 0.3s;
+}
+.solid {
+  background: rgba(21, 23, 20, 0.96);
+  backdrop-filter: blur(14px);
+}
+.brand {
+  font-family: var(--display);
+  font-size: 30px;
+  line-height: 1;
+}
+.brand span {
+  display: block;
+  font-family: var(--body);
+  font-size: 7px;
+  letter-spacing: 0.23em;
+  margin-top: 8px;
+}
+.desktopNav {
+  display: flex;
+  gap: 36px;
+  align-items: center;
+  font-size: 11px;
+}
+.desktopNav a {
+  padding: 15px 0;
+}
+.contactLink {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border-bottom: 1px solid var(--sage);
+}
+.menuButton {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 11px;
+  margin-left: 32px;
+  min-height: 44px;
+}
+.overlay {
+  position: fixed;
+  inset: 0;
+  height: 100dvh;
+  background: var(--obsidian);
+  padding: 32px var(--gutter);
+  overflow: auto;
+  color: var(--ivory);
+}
+.overlayTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: var(--display);
+  font-size: 32px;
+}
+.overlayTop button {
+  width: 48px;
+  height: 48px;
+}
+.overlay nav {
+  max-width: 950px;
+  margin: 30px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 50px;
+}
+.overlay nav a {
+  font-family: var(--display);
+  font-size: clamp(25px, 4.4vw, 62px);
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.overlay nav a > span {
+  font: 10px var(--body);
+  color: var(--sage);
+}
+.overlay nav a svg {
+  margin-left: auto;
+}
+.overlay > p {
+  font-size: 11px;
+  color: var(--sage);
+  text-align: center;
+  margin-top: 40px;
+}
+@media (max-width: 767px) {
+  .desktopNav {
+    display: none;
+  }
+  .brand {
+    font-size: 26px;
+  }
+  .overlay nav {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .overlay nav a {
+    font-size: 32px;
+    padding: 10px 0;
+  }
+  .overlay {
+    padding-top: 20px;
+  }
+}
+.header.light.solid {
+  background: rgba(240, 237, 229, 0.97);
+  color: var(--obsidian);
+  border-bottom-color: #c7c9ba;
+}
+.header.light.solid a:focus-visible,
+.header.light.solid button:focus-visible {
+  outline-color: #8b4934;
+}
+.brand img {
+  width: clamp(150px, 17vw, 245px);
+  height: 30px;
+  object-fit: contain;
+  object-position: left;
+}
+.logoDark {
+  display: none;
+}
+.header.light.solid .logoDark {
+  display: block;
+}
+.header.light.solid .logoLight {
+  display: none;
+}

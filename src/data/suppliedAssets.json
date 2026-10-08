@@ -1,0 +1,338 @@
+{
+  "hero-portrait": {
+    "src": "/assets/portraits/hero-portrait-960.webp",
+    "srcset": "/assets/portraits/hero-portrait-640.webp 640w, /assets/portraits/hero-portrait-960.webp 960w, /assets/portraits/hero-portrait-1024.webp 1024w",
+    "width": 1024,
+    "height": 1536,
+    "alt": "Crystal Kizor standing in an architectural studio",
+    "status": "verified"
+  },
+  "about-portrait": {
+    "src": "/assets/portraits/about-portrait-960.webp",
+    "srcset": "/assets/portraits/about-portrait-640.webp 640w, /assets/portraits/about-portrait-960.webp 960w, /assets/portraits/about-portrait-1374.webp 1374w",
+    "width": 1374,
+    "height": 1145,
+    "alt": "Crystal Kizor seated at a design studio desk",
+    "status": "verified"
+  },
+  "editorial-portrait": {
+    "src": "/assets/portraits/editorial-portrait-960.webp",
+    "srcset": "/assets/portraits/editorial-portrait-640.webp 640w, /assets/portraits/editorial-portrait-960.webp 960w, /assets/portraits/editorial-portrait-1373.webp 1373w",
+    "width": 1373,
+    "height": 1145,
+    "alt": "Crystal Kizor seated beside architectural books and natural materials",
+    "status": "verified"
+  },
+  "speaking-portrait": {
+    "src": "/assets/portraits/speaking-portrait-960.webp",
+    "srcset": "/assets/portraits/speaking-portrait-640.webp 640w, /assets/portraits/speaking-portrait-960.webp 960w, /assets/portraits/speaking-portrait-1374.webp 1374w",
+    "width": 1374,
+    "height": 1145,
+    "alt": "Crystal Kizor in an architecture podcast workspace",
+    "status": "verified"
+  },
+  "research-portrait": {
+    "src": "/assets/portraits/research-portrait-960.webp",
+    "srcset": "/assets/portraits/research-portrait-640.webp 640w, /assets/portraits/research-portrait-960.webp 960w, /assets/portraits/research-portrait-1374.webp 1374w",
+    "width": 1374,
+    "height": 1145,
+    "alt": "Supplied portrait of Crystal Kizor in her studio",
+    "status": "verified"
+  },
+  "practice-portrait": {
+    "src": "/assets/portraits/practice-portrait-960.webp",
+    "srcset": "/assets/portraits/practice-portrait-640.webp 640w, /assets/portraits/practice-portrait-960.webp 960w, /assets/portraits/practice-portrait-1374.webp 1374w",
+    "width": 1374,
+    "height": 1145,
+    "alt": "Supplied portrait of Crystal Kizor at her design workspace",
+    "status": "verified"
+  },
+  "nature-home-25": {
+    "src": "/assets/projects/nature-home-25-960.webp",
+    "srcset": "/assets/projects/nature-home-25-640.webp 640w, /assets/projects/nature-home-25-960.webp 960w, /assets/projects/nature-home-25-1080.webp 1080w",
+    "width": 1080,
+    "height": 1440,
+    "alt": "Nature Home: supplied project view 01",
+    "status": "verified"
+  },
+  "nature-home-27f5948d-36c1-4a55-84aa-0641349797d2-1-105-c": {
+    "src": "/assets/projects/nature-home-27f5948d-36c1-4a55-84aa-0641349797d2-1-105-c-768.webp",
+    "srcset": "/assets/projects/nature-home-27f5948d-36c1-4a55-84aa-0641349797d2-1-105-c-640.webp 640w, /assets/projects/nature-home-27f5948d-36c1-4a55-84aa-0641349797d2-1-105-c-768.webp 768w",
+    "width": 768,
+    "height": 1024,
+    "alt": "Nature Home: supplied project view 02",
+    "status": "verified"
+  },
+  "nature-home-31-2": {
+    "src": "/assets/projects/nature-home-31-2-828.webp",
+    "srcset": "/assets/projects/nature-home-31-2-640.webp 640w, /assets/projects/nature-home-31-2-828.webp 828w",
+    "width": 828,
+    "height": 1270,
+    "alt": "Nature Home: supplied project view 03",
+    "status": "verified"
+  },
+  "nature-home-78ffaf38-4097-40fa-93ab-ce632efb666e-1-105-c": {
+    "src": "/assets/projects/nature-home-78ffaf38-4097-40fa-93ab-ce632efb666e-1-105-c-768.webp",
+    "srcset": "/assets/projects/nature-home-78ffaf38-4097-40fa-93ab-ce632efb666e-1-105-c-640.webp 640w, /assets/projects/nature-home-78ffaf38-4097-40fa-93ab-ce632efb666e-1-105-c-768.webp 768w",
+    "width": 768,
+    "height": 1024,
+    "alt": "Nature Home: supplied project view 04",
+    "status": "verified"
+  },
+  "nature-home-7292b8d4-723a-4f36-aa1c-51f390a3813b-1-105-c-2-2": {
+    "src": "/assets/projects/nature-home-7292b8d4-723a-4f36-aa1c-51f390a3813b-1-105-c-2-2-768.webp",
+    "srcset": "/assets/projects/nature-home-7292b8d4-723a-4f36-aa1c-51f390a3813b-1-105-c-2-2-640.webp 640w, /assets/projects/nature-home-7292b8d4-723a-4f36-aa1c-51f390a3813b-1-105-c-2-2-768.webp 768w",
+    "width": 768,
+    "height": 1024,
+    "alt": "Nature Home: supplied project view 05",
+    "status": "verified"
+  },
+  "nature-home-b56d4edb-41b6-48f7-af8c-13afa6afcc76-1-201-a": {
+    "src": "/assets/projects/nature-home-b56d4edb-41b6-48f7-af8c-13afa6afcc76-1-201-a-960.webp",
+    "srcset": "/assets/projects/nature-home-b56d4edb-41b6-48f7-af8c-13afa6afcc76-1-201-a-640.webp 640w, /assets/projects/nature-home-b56d4edb-41b6-48f7-af8c-13afa6afcc76-1-201-a-960.webp 960w, /assets/projects/nature-home-b56d4edb-41b6-48f7-af8c-13afa6afcc76-1-201-a-1022.webp 1022w",
+    "width": 1022,
+    "height": 1363,
+    "alt": "Nature Home: supplied project view 06",
+    "status": "verified"
+  },
+  "nature-home-bedroom-3": {
+    "src": "/assets/projects/nature-home-bedroom-3-805.webp",
+    "srcset": "/assets/projects/nature-home-bedroom-3-640.webp 640w, /assets/projects/nature-home-bedroom-3-805.webp 805w",
+    "width": 805,
+    "height": 1078,
+    "alt": "Nature Home: supplied project view 07",
+    "status": "verified"
+  },
+  "nature-home-dividers": {
+    "src": "/assets/projects/nature-home-dividers-809.webp",
+    "srcset": "/assets/projects/nature-home-dividers-640.webp 640w, /assets/projects/nature-home-dividers-809.webp 809w",
+    "width": 809,
+    "height": 1078,
+    "alt": "Nature Home: supplied project view 08",
+    "status": "verified"
+  },
+  "nature-home-ed948444-a053-4e8d-87a5-900d66602868-1-201-a": {
+    "src": "/assets/projects/nature-home-ed948444-a053-4e8d-87a5-900d66602868-1-201-a-959.webp",
+    "srcset": "/assets/projects/nature-home-ed948444-a053-4e8d-87a5-900d66602868-1-201-a-640.webp 640w, /assets/projects/nature-home-ed948444-a053-4e8d-87a5-900d66602868-1-201-a-959.webp 959w",
+    "width": 959,
+    "height": 1440,
+    "alt": "Nature Home: supplied project view 09",
+    "status": "verified"
+  },
+  "nature-home-family-sitting-room-2": {
+    "src": "/assets/projects/nature-home-family-sitting-room-2-950.webp",
+    "srcset": "/assets/projects/nature-home-family-sitting-room-2-640.webp 640w, /assets/projects/nature-home-family-sitting-room-2-950.webp 950w",
+    "width": 950,
+    "height": 1440,
+    "alt": "Nature Home: supplied project view 10",
+    "status": "verified"
+  },
+  "nature-home-front-view-with-tree-shade": {
+    "src": "/assets/projects/nature-home-front-view-with-tree-shade-804.webp",
+    "srcset": "/assets/projects/nature-home-front-view-with-tree-shade-640.webp 640w, /assets/projects/nature-home-front-view-with-tree-shade-804.webp 804w",
+    "width": 804,
+    "height": 1080,
+    "alt": "Nature Home: supplied project view 11",
+    "status": "verified"
+  },
+  "nature-home-new-tree-back-garden": {
+    "src": "/assets/projects/nature-home-new-tree-back-garden-795.webp",
+    "srcset": "/assets/projects/nature-home-new-tree-back-garden-640.webp 640w, /assets/projects/nature-home-new-tree-back-garden-795.webp 795w",
+    "width": 795,
+    "height": 1062,
+    "alt": "Nature Home: supplied project view 12",
+    "status": "verified"
+  },
+  "nature-home-shade-with-cantilevers": {
+    "src": "/assets/projects/nature-home-shade-with-cantilevers-809.webp",
+    "srcset": "/assets/projects/nature-home-shade-with-cantilevers-640.webp 640w, /assets/projects/nature-home-shade-with-cantilevers-809.webp 809w",
+    "width": 809,
+    "height": 1080,
+    "alt": "Nature Home: supplied project view 13",
+    "status": "verified"
+  },
+  "community-centre-img-2041-2": {
+    "src": "/assets/projects/community-centre-img-2041-2-960.webp",
+    "srcset": "/assets/projects/community-centre-img-2041-2-640.webp 640w, /assets/projects/community-centre-img-2041-2-960.webp 960w, /assets/projects/community-centre-img-2041-2-1440.webp 1440w, /assets/projects/community-centre-img-2041-2-2000.webp 2000w",
+    "width": 2326,
+    "height": 2326,
+    "alt": "Community Centre Project: supplied project view 01",
+    "status": "verified"
+  },
+  "community-centre-img-2102-2": {
+    "src": "/assets/projects/community-centre-img-2102-2-960.webp",
+    "srcset": "/assets/projects/community-centre-img-2102-2-640.webp 640w, /assets/projects/community-centre-img-2102-2-960.webp 960w, /assets/projects/community-centre-img-2102-2-1440.webp 1440w, /assets/projects/community-centre-img-2102-2-2000.webp 2000w",
+    "width": 3840,
+    "height": 2877,
+    "alt": "Community Centre Project: supplied project view 02",
+    "status": "verified"
+  },
+  "community-centre-img-2103-2": {
+    "src": "/assets/projects/community-centre-img-2103-2-960.webp",
+    "srcset": "/assets/projects/community-centre-img-2103-2-640.webp 640w, /assets/projects/community-centre-img-2103-2-960.webp 960w, /assets/projects/community-centre-img-2103-2-1440.webp 1440w, /assets/projects/community-centre-img-2103-2-2000.webp 2000w",
+    "width": 2244,
+    "height": 2804,
+    "alt": "Community Centre Project: supplied project view 03",
+    "status": "verified"
+  },
+  "community-centre-img-2104-2": {
+    "src": "/assets/projects/community-centre-img-2104-2-960.webp",
+    "srcset": "/assets/projects/community-centre-img-2104-2-640.webp 640w, /assets/projects/community-centre-img-2104-2-960.webp 960w, /assets/projects/community-centre-img-2104-2-1440.webp 1440w, /assets/projects/community-centre-img-2104-2-2000.webp 2000w",
+    "width": 2448,
+    "height": 3264,
+    "alt": "Community Centre Project: supplied project view 04",
+    "status": "verified"
+  },
+  "community-centre-img-2105-2": {
+    "src": "/assets/projects/community-centre-img-2105-2-960.webp",
+    "srcset": "/assets/projects/community-centre-img-2105-2-640.webp 640w, /assets/projects/community-centre-img-2105-2-960.webp 960w, /assets/projects/community-centre-img-2105-2-1440.webp 1440w, /assets/projects/community-centre-img-2105-2-2000.webp 2000w",
+    "width": 2560,
+    "height": 3200,
+    "alt": "Community Centre Project: supplied project view 05",
+    "status": "verified"
+  },
+  "nature-home-2-1": {
+    "src": "/assets/projects/nature-home-2-1-960.webp",
+    "srcset": "/assets/projects/nature-home-2-1-640.webp 640w, /assets/projects/nature-home-2-1-960.webp 960w, /assets/projects/nature-home-2-1-1024.webp 1024w",
+    "width": 1024,
+    "height": 1024,
+    "alt": "Nature Home 2: supplied project view 01",
+    "status": "verified"
+  },
+  "nature-home-2-2": {
+    "src": "/assets/projects/nature-home-2-2-867.webp",
+    "srcset": "/assets/projects/nature-home-2-2-640.webp 640w, /assets/projects/nature-home-2-2-867.webp 867w",
+    "width": 867,
+    "height": 1080,
+    "alt": "Nature Home 2: supplied project view 02",
+    "status": "verified"
+  },
+  "nature-home-2-3": {
+    "src": "/assets/projects/nature-home-2-3-890.webp",
+    "srcset": "/assets/projects/nature-home-2-3-640.webp 640w, /assets/projects/nature-home-2-3-890.webp 890w",
+    "width": 890,
+    "height": 1080,
+    "alt": "Nature Home 2: supplied project view 03",
+    "status": "verified"
+  },
+  "nature-home-2-4": {
+    "src": "/assets/projects/nature-home-2-4-960.webp",
+    "srcset": "/assets/projects/nature-home-2-4-640.webp 640w, /assets/projects/nature-home-2-4-960.webp 960w, /assets/projects/nature-home-2-4-980.webp 980w",
+    "width": 980,
+    "height": 1080,
+    "alt": "Nature Home 2: supplied project view 04",
+    "status": "verified"
+  },
+  "nature-home-2-6": {
+    "src": "/assets/projects/nature-home-2-6-867.webp",
+    "srcset": "/assets/projects/nature-home-2-6-640.webp 640w, /assets/projects/nature-home-2-6-867.webp 867w",
+    "width": 867,
+    "height": 1080,
+    "alt": "Nature Home 2: supplied project view 05",
+    "status": "verified"
+  },
+  "nature-home-2-7": {
+    "src": "/assets/projects/nature-home-2-7-892.webp",
+    "srcset": "/assets/projects/nature-home-2-7-640.webp 640w, /assets/projects/nature-home-2-7-892.webp 892w",
+    "width": 892,
+    "height": 1080,
+    "alt": "Nature Home 2: supplied project view 06",
+    "status": "verified"
+  },
+  "nature-home-2-8": {
+    "src": "/assets/projects/nature-home-2-8-892.webp",
+    "srcset": "/assets/projects/nature-home-2-8-640.webp 640w, /assets/projects/nature-home-2-8-892.webp 892w",
+    "width": 892,
+    "height": 1080,
+    "alt": "Nature Home 2: supplied project view 07",
+    "status": "verified"
+  },
+  "logo-primary-light": {
+    "src": "/assets/brands/crystal-primary-light.png",
+    "srcset": "/assets/brands/crystal-primary-light.png 835w",
+    "width": 835,
+    "height": 375,
+    "alt": "Crystal Kizor primary logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-primary-dark": {
+    "src": "/assets/brands/crystal-primary-dark.png",
+    "srcset": "/assets/brands/crystal-primary-dark.png 835w",
+    "width": 835,
+    "height": 375,
+    "alt": "Crystal Kizor primary logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-monogram-light": {
+    "src": "/assets/brands/crystal-monogram-light.png",
+    "srcset": "/assets/brands/crystal-monogram-light.png 245w",
+    "width": 245,
+    "height": 185,
+    "alt": "Crystal Kizor monogram logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-monogram-dark": {
+    "src": "/assets/brands/crystal-monogram-dark.png",
+    "srcset": "/assets/brands/crystal-monogram-dark.png 245w",
+    "width": 245,
+    "height": 185,
+    "alt": "Crystal Kizor monogram logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-horizontal-light": {
+    "src": "/assets/brands/crystal-horizontal-light.png",
+    "srcset": "/assets/brands/crystal-horizontal-light.png 595w",
+    "width": 595,
+    "height": 75,
+    "alt": "Crystal Kizor horizontal logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-horizontal-dark": {
+    "src": "/assets/brands/crystal-horizontal-dark.png",
+    "srcset": "/assets/brands/crystal-horizontal-dark.png 595w",
+    "width": 595,
+    "height": 75,
+    "alt": "Crystal Kizor horizontal logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-signature-light": {
+    "src": "/assets/brands/crystal-signature-light.png",
+    "srcset": "/assets/brands/crystal-signature-light.png 425w",
+    "width": 425,
+    "height": 165,
+    "alt": "Crystal Kizor signature logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-signature-dark": {
+    "src": "/assets/brands/crystal-signature-dark.png",
+    "srcset": "/assets/brands/crystal-signature-dark.png 425w",
+    "width": 425,
+    "height": 165,
+    "alt": "Crystal Kizor signature logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-social-light": {
+    "src": "/assets/brands/crystal-social-light.png",
+    "srcset": "/assets/brands/crystal-social-light.png 275w",
+    "width": 275,
+    "height": 265,
+    "alt": "Crystal Kizor social logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logo-social-dark": {
+    "src": "/assets/brands/crystal-social-dark.png",
+    "srcset": "/assets/brands/crystal-social-dark.png 275w",
+    "width": 275,
+    "height": 265,
+    "alt": "Crystal Kizor social logo, extracted from the supplied logo collection",
+    "status": "verified"
+  },
+  "logoCollection": {
+    "src": "/assets/brands/crystal-logo-collection.webp",
+    "srcset": "/assets/brands/crystal-logo-collection.webp 1440w",
+    "width": 2172,
+    "height": 724,
+    "alt": "Supplied Crystal Kizor logo collection showing primary, monogram, horizontal, signature and social marks",
+    "status": "verified"
+  }
+}

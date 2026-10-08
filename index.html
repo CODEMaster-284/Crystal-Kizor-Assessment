@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#151714" />
+    <title>Crystal Kizor — Building Beyond Buildings</title>
+    <meta
+      name="description"
+      content="Explore the connected world of Crystal Kizor: architecture, design, education, ideas and purpose."
+    />
+    <meta
+      property="og:title"
+      content="Crystal Kizor — Building Beyond Buildings"
+    />
+    <meta
+      property="og:description"
+      content="Architecture. Ideas. Opportunity. A connected world of work and purpose."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/assets/brands/crystal-social.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="/assets/brands/crystal-social.jpg" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link
+      rel="preload"
+      href="/node_modules/@fontsource/cormorant-garamond/files/cormorant-garamond-latin-400-normal.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/node_modules/@fontsource/manrope/files/manrope-latin-400-normal.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <script>
+      try {
+        if (
+          !matchMedia("(prefers-reduced-motion: reduce)").matches &&
+          new URLSearchParams(location.search).get("motion") !== "off"
+        )
+          document.documentElement.classList.add("motion-ok");
+      } catch (e) {}
+      window.setTimeout(function () {
+        document.documentElement.classList.remove("motion-pending");
+        document.documentElement.classList.add("motion-ready");
+        window.dispatchEvent(new Event("ck:force-reveal"));
+        if (!document.querySelector('[role="dialog"]'))
+          document.body.style.overflow = "";
+        const root = document.getElementById("root");
+        if (root && !root.hasChildNodes())
+          root.innerHTML =
+            document.getElementById("static-content")?.textContent || "";
+      }, 4000);
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Crystal Kizor",
+        "jobTitle": [
+          "Architect",
+          "Designer",
+          "Entrepreneur",
+          "Speaker",
+          "Researcher"
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript id="static-content"
+      ><main
+        style="
+          background: #151714;
+          color: #f0ede5;
+          padding: 8vw;
+          font-family: Georgia;
+        "
+      >
+        <h1>Crystal Kizor — Building Beyond Buildings.</h1>
+        <p>Architect, designer, entrepreneur, speaker, researcher.</p>
+        <h2>About</h2>
+        <p>
+          Creating spaces, ideas and opportunities that shape how people live,
+          learn and thrive.
+        </p>
+        <h2>Selected Work</h2>
+        <p>
+          Selected supplied project series: Nature Home, Community Centre and
+          Nature Home 2. Interactive image galleries are available with
+          JavaScript.
+        </p>
+        <h2>The ecosystem</h2>
+        <p>Studio COKA: architecture, interior design and construction.</p>
+        <p>
+          ELEvated: contemporary furniture and product design rooted in African
+          context.
+        </p>
+        <p>The Effective Architect: architecture education and media.</p>
+        <p>
+          AKO Alliance: education and opportunities for children and young
+          people.
+        </p>
+        <p>Crystal Kizor: architecture, research, writing, media and ideas.</p>
+        <p>
+          Speaking Engagements: architecture, climate-responsive design, African
+          cities and entrepreneurship.
+        </p>
+        <p>
+          Alive and Free: a Christian youth movement grounded in truth, healing,
+          identity and life in Christ.
+        </p>
+        <h2>Perspectives</h2>
+        <p>Selected writing and research will appear here.</p>
+        <h2>Speaking</h2>
+        <p>
+          Architecture, climate-responsive design, African cities, design and
+          entrepreneurship, the built environment.
+        </p>
+        <h2>Purpose and communities</h2>
+        <p>
+          AKO Alliance and Alive and Free connect education and faith with wider
+          purpose.
+        </p>
+        <h2>Contact</h2>
+        <p>
+          Architecture and design; collaborations and partnerships; speaking;
+          other. Contact links coming soon.
+        </p>
+      </main></noscript
+    >
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
